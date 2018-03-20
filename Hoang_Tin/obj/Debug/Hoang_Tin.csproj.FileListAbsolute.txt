@@ -1,0 +1,54 @@
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\bin\Debug\Hoang_Tin.exe.config
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\bin\Debug\Hoang_Tin.exe
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\bin\Debug\Hoang_Tin.pdb
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.Form1.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmMain.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.Properties.Resources.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.csproj.GenerateResource.Cache
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.exe
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.pdb
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.csprojResolveAssemblyReference.cache
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmBan.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmCTBan.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmNhanVien.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmHoadon.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\RdlCompile.cache
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\RdlCompile.compiled
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmhoadon1.resources
+I:\phan tich thiet ke\3\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.hoanghoaban.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\bin\Debug\Hoang_Tin.exe.config
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.exe
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.pdb
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\bin\Debug\Hoang_Tin.exe
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\bin\Debug\Hoang_Tin.pdb
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.csprojResolveAssemblyReference.cache
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.Form1.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmBan.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmCTBan.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmHoadon.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmhoadon1.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmMain.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmNhanVien.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.hoanghoaban.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.Properties.Resources.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.csproj.GenerateResource.Cache
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\RdlCompile.cache
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\RdlCompile.compiled
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.slhangban.resources
+H:\007chuongtrinhquanlycafe\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.sldanhthu.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.Form1.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmBan.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmCTBan.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmHoadon.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmhoadon1.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmMain.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.frmNhanVien.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.hoanghoaban.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.Properties.Resources.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.sldanhthu.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.slhangban.resources
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.exe
+C:\Users\Admin\Desktop\HoangTin_UML\Hoang+Tin_UML\MDS\Hoang_Tin\obj\Debug\Hoang_Tin.pdb
